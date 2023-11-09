@@ -1,3 +1,3 @@
 # Curso Digital: Git
 
-# Testando
+# Testando git log
