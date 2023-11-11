@@ -2,4 +2,4 @@
 
 # Testando git log
 
-- comando git push
+- comando git push terminal
